@@ -4,4 +4,4 @@ This is the starter template for the Next.js App Router Course. It contains the 
 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
 
-The application is currently available via [this link](https://nextjs-dashboard-rouge-seven-66.vercel.app/dashboard)
+You can access the current state of the dashboard application [here](https://nextjs-dashboard-rouge-seven-66.vercel.app/dashboard)
