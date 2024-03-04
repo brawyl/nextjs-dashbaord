@@ -1,4 +1,4 @@
-'use client'
+'use client';
 
 import { CustomerField } from '@/app/lib/definitions';
 import Link from 'next/link';
@@ -147,7 +147,7 @@ export default function Form({ customers }: { customers: CustomerField[] }) {
         >
           Cancel
         </Link>
-        <Button type="submit" aria-describedby="validation-error">Create Invoice</Button>
+        <Button type="submit">Create Invoice</Button>
       </div>
     </form>
     );
